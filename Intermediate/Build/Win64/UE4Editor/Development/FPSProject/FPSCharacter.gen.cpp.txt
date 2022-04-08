@@ -14,4 +14,12 @@ D:\Programmes\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/
 D:\Programmes\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 D:\Programmes\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
 D:\Programmes\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+D:\Projets\Unreal Projects\FPSProject\Source\FPSProject\FPSProjectile.h
+D:\Programmes\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+D:\Programmes\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+D:\Programmes\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\Programmes\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\Programmes\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\Programmes\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+D:\Projets\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject\FPSProjectile.generated.h
 D:\Projets\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject\FPSCharacter.generated.h
